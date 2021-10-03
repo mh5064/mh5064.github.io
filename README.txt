@@ -14,10 +14,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 The changes to the original repo include:
- - uploaded HTML and CSS files from template
- - Changed title and text
+ - Wploaded HTML and CSS files from template
+ - Changed website title and general text
  - Removed significant, unneeded chunks of HTML code
- - Uploaded new image of the team and formatted using HTML tags
- - Changed social links to redirect to github page
- - Changed Learn More button to redirect to course Brightspace
+ - Uploaded new image of the team and mapped and formatted image using HTML tags
+ - Changed social links to redirect to this github page
+ - Changed button to redirect to course Brightspace
  - Added additional text with portfolio information using paragraph tags and unordered lists
