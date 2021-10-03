@@ -14,7 +14,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 The changes to the original repo include:
- - Wploaded HTML and CSS files from template
+ - Uploaded HTML and CSS files from template
  - Changed website title and general text
  - Removed significant, unneeded chunks of HTML code
  - Uploaded new image of the team and mapped and formatted image using HTML tags
