@@ -18,3 +18,6 @@ The changes to the original repo include:
  - Changed title and text
  - Removed significant, unneeded chunks of HTML code
  - Uploaded new image of the team and formatted using HTML tags
+ - Changed social links to redirect to github page
+ - Changed Learn More button to redirect to course Brightspace
+ - Added additional text with portfolio information using paragraph tags and unordered lists
